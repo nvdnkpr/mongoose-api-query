@@ -1,7 +1,7 @@
 {
   "name": "mongoose-api-query",
-  "version": "0.1.0",
-  "author": "Adam Jacob Becker <ad@mbecker.cc>",
+  "version": "0.1.1",
+  "author": "Navid Nikpour <navid@nikpour.com>",
   "description": "Given a Mongoose model and an array of URI params, construct a query for use in a search API.",
   "keywords": ["API", "mongoose", "search", "parameters"],
   "scripts": {
@@ -15,7 +15,7 @@
     "expect.js": "*"
   },
   "dependencies": {
-    "mongoose": "~3.0.2"
+    "mongoose": "~3.8.0"
   },
-  "homepage": "http://github.com/adamjacobbecker/mongoose-api-query"
+  "homepage": "http://github.com/nvdnkpr/mongoose-api-query"
 }
